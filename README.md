@@ -1,4 +1,3 @@
-# Train_Model_YOLOv8
+# Train_Model_YOLOv8 with Google Colab 
 # requirement
-Google Colab 
-\nultralytics==8.0.114
+ultralytics==8.0.114
